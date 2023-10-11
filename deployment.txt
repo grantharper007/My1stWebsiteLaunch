@@ -1,0 +1,13 @@
+DEPLOYMENT...
+
+1. A web server serves/host websites (AKA files that a website are comprised of)
+2. Deployment is the process of uploading/copying website files from a computer to a web server
+3. Web hosting is a service that allows for a website to be live online.
+    A. Web Hosting Examples
+    i. Netlify
+    ii. Wordpress
+    iii. Go Daddy
+    iv. GitHub Pages
+    v. WIX
+    vi. HostGator
+    vii. Shopify
